@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="student_Authentication.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="student_Authentication_RegisteredStudent_RegisteredStudent_Service" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://agileapp.agilebiz.co.ke:10001/schoolsystem/WS/Double%20Deez/Page/RegisteredStudent</Value>
+    </Setting>
+    <Setting Name="student_Authentication_RegisteredStudentList_RegisteredStudentList_Service" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://agileapp.agilebiz.co.ke:10001/schoolsystem/WS/Double%20Deez/Page/RegisteredStudentList</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
